@@ -9,3 +9,24 @@ B tree is a self-balancing tree data structure that maintains sorted data and al
 Unlike normal B-tree which has key-value pairs contained in every single nodes, B+ tree has key-value pairs only contained in leaf node which largely shortened the times of IO operations.
 ![ds_13](https://user-images.githubusercontent.com/83719401/184690844-a11a0d3a-de53-4a53-8116-12285bfd7cbb.jpg)
 
+## commands:
+
+### meta commands(with a leading . ):
+1 .exit / .quit : quit and save the modifications.
+
+2 .constant : show constants info
+
+3 .btree : show btree info
+
+4 .clear : clean the screen
+
+### normal commands(without a leading .):
+1 insert [id] [name] [mail]
+
+2 select
+
+## how to use:
+
+in linux environment:
+
+make db
