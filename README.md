@@ -29,5 +29,5 @@ Unlike normal B-tree which has key-value pairs contained in every single nodes, 
 
 in linux environment:
 
-1. make db
-2. ./db [name].db (need to create a .db file at first)
+1 make db
+2 ./db [name].db (need to create a .db file at first)
